@@ -1,5 +1,4 @@
-# Bamazon --- CLI Store
-
+# Bamazon 
 Welcome to Bamazon!!
 
 ### ssignment Detials & Requirements
